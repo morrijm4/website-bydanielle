@@ -1,0 +1,26 @@
+.social-link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 36px;
+    width: 36px;
+    background-color: #fff;
+    color: var(--primary-color);
+    margin-right: 0.35rem;
+    margin-left: 0.35rem;
+    text-decoration: none;
+}
+
+.social-link:hover {
+    background-color: #afc2ff;
+    -webkit-transition: all 170ms ease;
+    -moz-transition: all 170ms ease;
+    -ms-transition: all 170ms ease;
+    -o-transition: all 170ms ease;
+    transition: all 170ms ease;
+}
+
+.social-link i {
+    color: var(--primary);
+}

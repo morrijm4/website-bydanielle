@@ -1,0 +1,17 @@
+:root {
+  --primary: #0011c4;
+  --secondary-color: #faf9f5;
+  --tertiary-color: #a77870;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.section {
+  background-color: var(--secondary-color);
+  height: 20rem;
+}

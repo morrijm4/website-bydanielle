@@ -1,0 +1,14 @@
+.footer-wrapper {
+    background-color: var(--primary);
+    color: #fff;
+    padding-top: 6.6vmax;
+    padding-bottom: 6.6vmax;
+    padding-left: 6vw;
+    padding-right: 6vw;
+}
+
+.carousel-img {
+    object-fit: contain;
+    height: 200px;
+}
+

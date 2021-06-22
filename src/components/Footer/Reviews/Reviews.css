@@ -1,0 +1,10 @@
+.reviews {
+    color: var(--tertiary-color);
+    text-decoration: none;
+    font-size: calc((1.7 - 1) * 1.2vw + 1rem);
+    font-weight: 700;
+}
+
+.reviews:hover {
+    color: var(--tertiary-color);
+}

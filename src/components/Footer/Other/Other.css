@@ -1,0 +1,19 @@
+.other {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3rem;
+}
+
+.other > * {
+    margin-left: 0.25rem;
+    margin-right: 0.25rem;
+}
+
+.other a {
+    color: var(--tertiary-color);
+}
+
+.other a:hover {
+    color: var(--tertiary-color);
+}
